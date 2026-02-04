@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hello, this is Ropafadzo Duwati👋.
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,20 +8,19 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ropafadzo-duwati"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://medium.com/ropaduwati"><img src="https://img.shields.io/badge/Medium-My_Medium-black?style=for-the-badge&logo=medium"></a>
+  <a href="mailto:ropaduwati@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-grey?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analyst. I help businesses and organizations turn their data into actionable insights enabling their businesses grow. 
+I identify trends in data, create visualizations that are understandable to all stakeholders and help you turn your "whys" into actionable intelligence.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+....and when I'm not working in tech, I enjoy serving, cooking, and growth coaching.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+<!-- ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/) -->
       
 ## 🔭 What I'm Currently Working On 
 
