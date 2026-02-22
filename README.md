@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ropafadzo-duwati"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://medium.com/ropaduwati"><img src="https://img.shields.io/badge/Medium-My_Medium-black?style=for-the-badge&logo=medium"></a>
-  <a href="mailto:ropaduwati@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-grey?style=for-the-badge&logo=gmail"></a>
+  <!--<a href="mailto:ropaduwati@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-grey?style=for-the-badge&logo=gmail"></a> -->
 </p>
 
 ## 🚀 About Me 
