@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=470&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Intelligence;";alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Intelligence;";alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -17,21 +17,13 @@
 I'm a data analyst. I help businesses and organizations turn their data into actionable insights enabling their businesses grow. 
 I identify trends in data, create visualizations that are understandable to all stakeholders and help you turn your "whys" into actionable intelligence.
 
-....and when I'm not working in tech, I enjoy baking, cooking, and growth coaching.
-
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 <!-- ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/) -->
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Customers behavior analysis and visualization using SQL and PowerBI.]  
-- **Project B:** [Creating a sales dashboard for a luxury brand in Power BI.]
-- **Writing:** [Exploring tech trends, gaps and growth.]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-
+- **Project 1:** [Customers behavior analysis and visualization using SQL and PowerBI.]  
+- **Project 2:** [Creating a sales dashboard for a luxury brand in Power BI.]
 
 ## 🛠️ Technical Skillset
 
